@@ -28,7 +28,7 @@ wget http://nlp.stanford.edu/data/glove.42B.300d.zip
 unzip glove.42B.300d.zip
 ```
 
-The spoken audio will be released soon. 
+The spoken audio dataset is now available from [here](https://drive.google.com/file/d/11f6sC94Swov_opNfpleTlVGyLJDFS5IW/view?usp=sharing). 
 
 
 ## Training
